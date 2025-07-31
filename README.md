@@ -25,8 +25,8 @@ The goal was to build a standalone services page that includes:
 
 ## 📷 Screenshots
 
-(<img width="1352" height="633" alt="image" src="https://github.com/user-attachments/assets/ea59b5c8-8765-4b9a-be1a-1a3e47fabfde" /> 
-(<img width="338" height="553" alt="image" src="https://github.com/user-attachments/assets/2b4f6a8f-e6d2-4aaf-a5f8-c443acb097ff" /> 
+<img width="1352" height="633" alt="image" src="https://github.com/user-attachments/assets/ea59b5c8-8765-4b9a-be1a-1a3e47fabfde" /> 
+<img width="338" height="553" alt="image" src="https://github.com/user-attachments/assets/2b4f6a8f-e6d2-4aaf-a5f8-c443acb097ff" /> 
 
 
 
